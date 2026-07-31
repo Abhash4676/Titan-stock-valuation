@@ -1,4 +1,4 @@
-# Titan Company Limited — Stock Valuation Model
+# Titan Company Limited Stock Valuation Model
 
 DCF + Relative Valuation built in Excel for **Titan Company Limited (NSE: TITAN)**, India's leading organised jewellery, watches, and eyewear retailer (Tanishq, Titan Watches, Titan Eye+).
 
@@ -8,7 +8,7 @@ DCF + Relative Valuation built in Excel for **Titan Company Limited (NSE: TITAN)
 
 ## What this model does
 
-- 5-year driver-based forecast (FY26E–FY30E) built from revenue growth, EBIT margin, D&A, capex, and working-capital assumptions
+- 5-year driver-based forecast (FY26 FY30) built from revenue growth, EBIT margin, D&A, capex, and working-capital assumptions
 - Free Cash Flow to Firm (FCFF) discounted at a CAPM-derived WACC
 - Gordon Growth terminal value
 - Two-way sensitivity grid: WACC × terminal growth, fully formula-driven (no macros)
