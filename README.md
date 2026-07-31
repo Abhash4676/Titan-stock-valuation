@@ -2,7 +2,7 @@
 
 DCF + Relative Valuation built in Excel for **Titan Company Limited (NSE: TITAN)**, India's leading organised jewellery, watches, and eyewear retailer (Tanishq, Titan Watches, Titan Eye+).
 
-**[Download the workbook](./Titan_Stock_Valuation_Model.xlsx)**
+**[Download the workbook]("C:\Users\abhas\Downloads\Titan stock valuation model final.xlsx")**
 
 ![Dashboard](./screenshots/dashboard.png)
 
